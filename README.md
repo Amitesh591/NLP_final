@@ -1,9 +1,17 @@
 # NLP_final
 This project is done under the NLP course under tha guidance of Prof G Srinivasaraghavan.
+
+
 Team members are:
 1- Amitesh Anand(MT2019117)
+
+
 2- Shubham Kumar(MT2019109)
+
+
 3- Shubham Lamichane(MT2019110)
+
+
 #Step 1-- First clone the project.
 
 
