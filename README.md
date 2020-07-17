@@ -26,4 +26,4 @@ Team members are:
 
 
 Conclusion -- Epoch should be between 2 and 4.
-RMSE is around 0.534 .
+RMSE is around 0.543 .
